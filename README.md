@@ -8,6 +8,10 @@ Instead of managing "systemd-timesyncd" through multiple commands and configurat
 
 ---
 
+
+https://github.com/user-attachments/assets/efad045c-84b1-42af-b28d-904d44cfe13f
+
+
 Features
 
 Time & Timezone
